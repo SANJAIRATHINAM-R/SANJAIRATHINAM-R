@@ -28,4 +28,4 @@ Cyber security Analyst | Bug Hunter | Security Researcher
 👉 Building & Contributing To Open Source Projects
 
 👉 Currently Learning mobile pentesting & web3 
-<h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dhurgesh-mj-439b802b2/)
+<h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sanjairathinam17/)
