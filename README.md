@@ -82,7 +82,11 @@ Visual Studio · PyCharm · Ubuntu · Kali Linux
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=050505&color=43e137&line=26d929&point=05acff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SANJAIRATHINAM-R&bg_color=050505&color=43e137&line=26d929&point=05acff&area=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
