@@ -35,7 +35,7 @@ I actively explore modern domains like **Malware Forensics, Web Security, and We
 
 ## 🌐 Portfolio
 
-🔗 **[Visit My Portfolio](https://sanjairathinam-portfolio.netlify.app/)**
+🔗 **[Visit My Portfolio](https://sanjairathinamportfolio.netlify.app/)**
 
 ---
 
